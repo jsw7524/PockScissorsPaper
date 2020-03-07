@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1435801677 source:c:\users\jsw\google\pockscissorspaper\main.c
+	<stdio.h>
+	<stdlib.h>
+
